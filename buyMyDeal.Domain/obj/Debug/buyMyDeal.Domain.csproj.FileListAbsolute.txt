@@ -1,0 +1,12 @@
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\bin\Debug\buyMyDeal.Domain.dll.config
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\bin\Debug\buyMyDeal.Domain.dll
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\bin\Debug\buyMyDeal.Domain.pdb
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\bin\Debug\EntityFramework.dll
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\bin\Debug\EntityFramework.xml
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\obj\Debug\buyMyDeal.Domain.csprojAssemblyReference.cache
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\obj\Debug\buyMyDeal.Domain.csproj.CoreCompileInputs.cache
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\obj\Debug\buyMyDeal.Domain.csproj.CopyComplete
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\obj\Debug\buyMyDeal.Domain.dll
+E:\software\visual studios\ASP.net\buyMyDeal\buyMyDeal.Domain\obj\Debug\buyMyDeal.Domain.pdb
