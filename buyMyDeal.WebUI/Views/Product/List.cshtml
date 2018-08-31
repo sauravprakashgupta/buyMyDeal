@@ -1,7 +1,16 @@
-﻿@model buyMyDeal.Domain.Entities.Product
+﻿@model IEnumerable<buyMyDeal.Domain.Entities.Product>
 
 @{
-    ViewBag.Title = "List";
+    ViewBag.Title = "Products";
+}
+
+@foreach(var p in Model)
+{
+    <div>
+        <h3>@p.Name</h3>
+        <h4>@p.Price.ToString("c")</h4>
+        @p.Description
+    </div>
 }
 
 <h2>List</h2>
